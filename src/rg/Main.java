@@ -12,7 +12,7 @@ public class Main {
         System.out.println("Input Character count:");
 
         int length = sc.nextInt();
-        int i = 0;
+        long i;
 
         String chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*()";
 
